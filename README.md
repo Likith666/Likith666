@@ -36,23 +36,18 @@
 
 ---
 
-### 🕹️ Oculus-Based VR Interaction Demos  
-Showcases various XR-based immersive interaction models including object grabbing, UI menus, and gaze-based triggers.  
-**Tools:** Unity, XR Toolkit  
-🔗 [Repository](https://github.com/)
+### 🕹️ VR Cube-Based Cognitive Test
+- An interactive VR application that evaluates cognitive abilities through a dynamic colored-cube experiment. Users respond to cubes based on color and sequence, testing reaction time, focus, and short-term memory in an immersive environment.
+- Cubes with parts of an image appear in random sequences. The user must respond to specific targets, and the system records accuracy and response timing.  
+**Tools:** Unity 3D, XR Toolkit, Oculus Quest 2  
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Likith666&show_icons=true&theme=tokyonight)
+![CubeCT gif](./media/CubeCT.gif)
 
 ---
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/likith-reddy-67ba1a235/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likithreddychantigari+github@gmail.com)
 
 ---
 
