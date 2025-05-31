@@ -38,7 +38,7 @@
 ---
 
 ### 🕹️ VR Cube-Based Cognitive Test
-- An interactive VR application that evaluates cognitive abilities through a dynamic colored-cube experiment. Users respond to cubes based on color and sequence, testing reaction time, focus, and short-term memory in an immersive environment.
+- An interactive VR application that evaluates cognitive abilities through a dynamic colored-cube experiment. Users respond to cubes based on color and sequence, testing reaction time, focus, and short-term memory in an immersive environment. 
 - Cubes with parts of an image appear in random sequences. The user must respond to specific targets, and the system records accuracy and response timing.
 
 **Tools:** Unity 3D, XR Toolkit, Oculus Quest 2  
@@ -65,13 +65,8 @@
 
 #### 🛠️ Project: Personalized Pro (Product Design VR Application)
 
-**Overview:**  
-An VR solution that allows customers to visualize and customize products before manufacturing.
-
-**Impact:**  
-Enhances customer satisfaction and reduces costly revisions by enabling immersive pre-approval.
-
-![Team Photo](./images/team-photo.jpg)
+- An VR solution that allows customers to visualize and customize products before manufacturing.
+- Enhances customer satisfaction and reduces costly revisions by enabling immersive pre-approval.
 
 ---
 
