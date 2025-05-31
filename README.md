@@ -33,7 +33,7 @@
 **Tools:** Unity, XR Toolkit, Oculus Quest 2  
 **Team:** Likith (me), Venkat Swaraj, Kailash Sriram  
   
-![ExPharm gif](./media/ExPharm.gif)
+![ExPharm gif](./media/Projects/ExPharm.gif)
 
 ---
 
@@ -43,7 +43,7 @@
 
 **Tools:** Unity 3D, XR Toolkit, Oculus Quest 2  
 
-![CubeCT gif](./media/CubeCT.gif)
+![CubeCT gif](./media/Projects/CubeCT.gif)
 
 ---
 
@@ -54,6 +54,24 @@
 | **Dirt Cooper** | A simple car simulator.              | [▶️ Launch](https://likith666.github.io/Dirt-Cooper)        |
 | **Tic Tac Toe**     | A simple multiplayer Tic Tac Toe built with [Code Monkey.](https://youtu.be/YmUnXsOp_t0?si=q6nkq0bFTxvT3jN9) | [▶️ Launch](https://likith666.github.io/Tic-Tac-Toe)        |
 | **Rutherford Experiment Simulation**            | A 2D Rutherford Experiment Simulation assigned as a task for internship by [Vignam.](https://www.linkedin.com/company/vignam)                                  | [▶️ Launch](https://likith666.github.io/Rutherford-Experiment-Simulation/)        |
+
+---
+
+## 🏆 Achievements
+
+### 🥇 Winner – National Level Metaloop Hackathon  
+**Organized by MLRIT CIE & DeepLoop Technologies**  
+📢 [View Announcement on LinkedIn](https://www.linkedin.com/posts/cxr-gitam_metaloopwinners-augmentedreality-virtualreality-activity-7123541338649694209-V9A7)  
+
+#### 🛠️ Project: Personalized Pro (Product Design VR Application)
+
+**Overview:**  
+An VR solution that allows customers to visualize and customize products before manufacturing.
+
+**Impact:**  
+Enhances customer satisfaction and reduces costly revisions by enabling immersive pre-approval.
+
+![Team Photo](./images/team-photo.jpg)
 
 ---
 
