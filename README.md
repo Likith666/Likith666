@@ -38,7 +38,8 @@
 
 ### 🕹️ VR Cube-Based Cognitive Test
 - An interactive VR application that evaluates cognitive abilities through a dynamic colored-cube experiment. Users respond to cubes based on color and sequence, testing reaction time, focus, and short-term memory in an immersive environment.
-- Cubes with parts of an image appear in random sequences. The user must respond to specific targets, and the system records accuracy and response timing.  
+- Cubes with parts of an image appear in random sequences. The user must respond to specific targets, and the system records accuracy and response timing.
+
 **Tools:** Unity 3D, XR Toolkit, Oculus Quest 2  
 
 ![CubeCT gif](./media/CubeCT.gif)
