@@ -53,7 +53,7 @@
 |----------------------------------|----------------------------------------------------------|-----------------------------------------------|
 | **Dirt Cooper** | A simple car simulator.              | [▶️ Launch](https://likith666.github.io/Dirt-Cooper)        |
 | **Tic Tac Toe**     | A simple multiplayer Tic Tac Toe built with [Code Monkey](https://youtu.be/YmUnXsOp_t0?si=q6nkq0bFTxvT3jN9) | [▶️ Launch](https://likith666.github.io/Tic-Tac-Toe)        |
-| **[Your Project Title]**            | [Short description here]                                  | [▶️ Launch](https://your-link-here.com)        |
+| **Rutherford Experiment Simulation**            | A 2D Rutherford Experiment Simulation assigned as a task for internship by [Vignam](https://www.linkedin.com/company/vignam)                                  | [▶️ Launch](https://likith666.github.io/Rutherford-Experiment-Simulation/)        |
 
 ---
 
