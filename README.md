@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Likith
 
-🎮 XR & Unity Developer | 💡 Creative Technologist | 🧠 Immersive Experience Designer  
+🎮 Unity Developer | 🕶️ VR & XR Enthusiast  
 🚀 Passionate about building interactive VR simulations and gamified systems that blend reality with imagination.
 
 ---
@@ -30,7 +30,8 @@
 - Simulates corneal reflexes in rabbits affected by different drugs in a fully immersive VR environment using Oculus Quest 2.  
 - The project aims to simulate drug experiments and their effects in VR, eliminating the need for live animal testing.
   
-**Tools:** Unity, XR Toolkit, Oculus Quest 2
+**Tools:** Unity, XR Toolkit, Oculus Quest 2  
+**Team:** Likith (me), Venkat Swaraj, Kailash Sriram  
   
 ![ExPharm gif](./media/ExPharm.gif)
 
