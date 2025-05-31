@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 About Me
+## ✨ About Me
 
 - 🕶️ Developing immersive VR experiences using Unity 3D and XR Interaction Toolkit
 - 🎮 Exploring game development fundamentals to complement my Unity skills
@@ -26,7 +26,7 @@
 
 ## 💼 Projects
 
-### 🎮 Experience Pharmacology (VR Rabbit Reflex Simulation)
+### 🎮 Experiential Pharmacology (VR Rabbit Reflex Simulation)
 - Simulates corneal reflexes in rabbits affected by different drugs in a fully immersive VR environment using Oculus Quest 2.  
 - The project aims to simulate drug experiments and their effects in VR, eliminating the need for live animal testing.
   
