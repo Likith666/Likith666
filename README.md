@@ -47,6 +47,16 @@
 
 ---
 
+## 🌐 WebGL Builds
+
+| Project                          | Description                                              | WebGL Link                                    |
+|----------------------------------|----------------------------------------------------------|-----------------------------------------------|
+| **Dirt Cooper** | A simple car simulator.              | [▶️ Launch](https://likith666.github.io/Dirt-Cooper)        |
+| **Tic Tac Toe**     | A simple multiplayer Tic Tac Toe built with [Code Monkey](https://youtu.be/YmUnXsOp_t0?si=q6nkq0bFTxvT3jN9) | [▶️ Launch](https://likith666.github.io/Tic-Tac-Toe)        |
+| **[Your Project Title]**            | [Short description here]                                  | [▶️ Launch](https://your-link-here.com)        |
+
+---
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/likith-reddy-67ba1a235/)  
